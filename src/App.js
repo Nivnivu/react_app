@@ -3,6 +3,7 @@ import Main from './components/Main';
 import Basket from './components/Basket';
 import data from './data';
 import {useState} from 'react';
+import backgroundImg from './background.JPG'
 
 function App() {
   const {products} = data;
@@ -31,6 +32,7 @@ function App() {
   return (
     <div className='App'>
       <Header></Header>
+      <div className='row'><img className='backImg' src={backgroundImg}/></div>
       <div className='row'>
       <Main onAdd={onAdd} products={products}></Main>
       <Basket onAdd={onAdd} onRemove={onRemove} cartItems={cartItems}></Basket>
