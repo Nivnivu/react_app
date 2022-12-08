@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/react_app/static/css/main.2cb92255.css",
-    "main.js": "/react_app/static/js/main.cf66c312.js",
+    "main.css": "/react_app/static/css/main.167a68d9.css",
+    "main.js": "/react_app/static/js/main.9d05d83a.js",
     "static/js/787.44f64f68.chunk.js": "/react_app/static/js/787.44f64f68.chunk.js",
+    "static/media/Apple-Logo.png": "/react_app/static/media/Apple-Logo.83af90e6be068c931309.png",
     "static/media/iphone-pro-pro-max.JPG": "/react_app/static/media/iphone-pro-pro-max.9a0a799ec809a37dd04c.JPG",
+    "static/media/iphone14-14plus.JPG": "/react_app/static/media/iphone14-14plus.4a8136a0005d86471f83.JPG",
     "index.html": "/react_app/index.html",
-    "main.2cb92255.css.map": "/react_app/static/css/main.2cb92255.css.map",
-    "main.cf66c312.js.map": "/react_app/static/js/main.cf66c312.js.map",
+    "main.167a68d9.css.map": "/react_app/static/css/main.167a68d9.css.map",
+    "main.9d05d83a.js.map": "/react_app/static/js/main.9d05d83a.js.map",
     "787.44f64f68.chunk.js.map": "/react_app/static/js/787.44f64f68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cb92255.css",
-    "static/js/main.cf66c312.js"
+    "static/css/main.167a68d9.css",
+    "static/js/main.9d05d83a.js"
   ]
 }
