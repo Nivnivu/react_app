@@ -1,29 +1,30 @@
-import iphoneImg from './iphone-pro-pro-max.JPG'
+import iphoneImg from './iphone-pro-pro-max.JPG';
+import iphoneRegImg from './iphone14-14plus.JPG';
 
 const data = {
     products: [
     {
      id: '1',
-    name: 'Iphone',
-    price: 2000,
-    image: iphoneImg
+    name: 'iphone 14 ',
+    price: 3899,
+    image: iphoneRegImg
 },
 {
     id: '2',
-   name: 'Iphone13',
-   price: 2000,
-   image: iphoneImg
+   name: 'iphone 14 Plus',
+   price: 4479,
+   image: iphoneRegImg
 },
 {
     id: '3',
-   name: 'Iphone12',
-   price: 2000,
+   name: 'iphone 14 Pro',
+   price: 4899,
    image: iphoneImg
 },
 {
     id: '4',
-   name: 'Iphone11',
-   price: 2000,
+   name: 'iphone 14 Pro Max',
+   price: 5399,
    image: iphoneImg
 },
     ]
